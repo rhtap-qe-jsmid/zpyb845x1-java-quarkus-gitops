@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: zpyb845x1-java-quarkus-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/zpyb845x1-java-quarkus
